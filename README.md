@@ -4,4 +4,4 @@ and measuring avg. resposne time. Written in C using raw sockects.
 
 
 ### Usage
-sudo ./traceroute <ip>
+sudo ./traceroute < ip >
