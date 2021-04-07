@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "ip_icmp.h": "c",
+        "icmp_send.h": "c",
+        "assert.h": "c",
+        "unistd.h": "c",
+        "climits": "cpp",
+        "cmath": "cpp",
+        "cstdarg": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "type_traits": "cpp",
+        "limits": "cpp",
+        "*.tcc": "cpp",
+        "cinttypes": "cpp",
+        "cstdint": "cpp",
+        "typeinfo": "cpp",
+        "icmp_receive.h": "c",
+        "ip.h": "c",
+        "string.h": "c",
+        "errno.h": "c",
+        "time.h": "c",
+        "inet.h": "c",
+        "select.h": "c",
+        "types.h": "c",
+        "stdio.h": "c"
+    }
+}
